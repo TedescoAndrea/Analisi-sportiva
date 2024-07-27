@@ -23,6 +23,7 @@ soccer_analysis/
 │   └── utils/
 ├── tests/
 ├── data/
+    ├── input
 ├── models/
 ├── docs/
 ├── config/
@@ -209,3 +210,11 @@ graph TD
 1. Installare le dipendenze: `pip install -r requirements.txt`
 2. Configurare i parametri nel file `config/config.yaml`
 3. Eseguire l'analisi: `python main.py --input path/to/video.mp4`
+
+## Contribuire
+
+Siamo aperti a contributi! Per favore, leggete le linee guida per i contributi in `CONTRIBUTING.md` prima di iniziare.
+
+## Licenza
+
+Questo progetto è rilasciato sotto la licenza MIT. Vedere il file `LICENSE` per i dettagli.
